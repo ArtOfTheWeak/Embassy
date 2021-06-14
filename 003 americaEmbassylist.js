@@ -1,4 +1,4 @@
-//A list of 156 US Embassies worldwide that operate a twitter account and their respective twitter IDs 
+//A list of 160 US Embassies worldwide that operate a twitter account and their respective twitter IDs 
 // Based on wikipedia list of US Diplomatic missions: 
 //https://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_the_United_States 
 //Twitter IDS from www.tweeterid.com
