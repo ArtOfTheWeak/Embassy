@@ -4,11 +4,11 @@ This one monitors Russian Embassies on raspberry pi
 When any of them tweet an a series of audio files stored on PI are 
 played over fm radio  
 
-Code snippets from Daniel SHiffman https://shiffman.net/a2z/twitter-bots/ 
+Code snippets from Daniel Shiffman https://shiffman.net/a2z/twitter-bots/ 
 
 The audio will play over fm radio using https://github.com/markondej/fm_transmitter  
 
-There are more elegant/efficient ways of doing it with less repition - but this worked for me. 
+There are more elegant/efficient ways of doing it with less repetiton - but this worked for me. 
 */
 
 //SetUp info
