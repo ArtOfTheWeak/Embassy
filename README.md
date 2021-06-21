@@ -6,13 +6,17 @@ All of the archival audio originates from, or is in reference to, the Cold War e
 
 
 
-001 morseCode.pdf
+002 morseCode.pdf
 Preliminary code used to convert tweets into morse code.
-002 americanEmbassyRasPI.pdf
+
+003 americanEmbassyRasPI.pdf
 Javascript code to be run on a Raspberry pi, used to monitor US embassies and play audio files when specific embassy tweets.
-003 russianEmbassyRasPI.pdf
+
+004 russianEmbassyRasPI.pdf
 Javascript code to be run on a raspberry pi, used to monitor Russian embassies and play audio files when specific embassy tweets.
-004 americanEmbassyList.pdf
+
+005 americanEmbassyList.pdf
 List of US embassies with Twitter accounts and their numerical twitter IDs.
-005 russianEmbassyList.pdf
+
+006 russianEmbassyList.pdf
 List of Russian embassies with Twitter accounts and their numerical twitter IDs.
