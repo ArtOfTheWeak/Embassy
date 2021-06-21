@@ -6,17 +6,17 @@ All of the archival audio originates from, or is in reference to, the Cold War e
 
 
 
-[002 morseCode.pdf] (https://github.com/ArtOfTheWeak/Embassy/blob/main/002%20morseTweet.js)
+[002 morseCode.pdf](https://github.com/ArtOfTheWeak/Embassy/blob/main/002%20morseTweet.js)
 Preliminary code used to convert tweets into morse code.
 
-003 americanEmbassyRasPI.pdf
+[003 americanEmbassyRasPI.pdf](https://github.com/ArtOfTheWeak/Embassy/blob/main/003%20americaEmbassylist.js)
 Javascript code to be run on a Raspberry pi, used to monitor US embassies and play audio files when specific embassy tweets.
 
-004 russianEmbassyRasPI.pdf
+[004 russianEmbassyRasPI.pdf](https://github.com/ArtOfTheWeak/Embassy/blob/main/004%20russianEmbassylist.js)
 Javascript code to be run on a raspberry pi, used to monitor Russian embassies and play audio files when specific embassy tweets.
 
-005 americanEmbassyList.pdf
+[005 americanEmbassyList.pdf](https://github.com/ArtOfTheWeak/Embassy/blob/main/005%20americaTwitter.js)
 List of US embassies with Twitter accounts and their numerical twitter IDs.
 
-006 russianEmbassyList.pdf
+[006 russianEmbassyList.pdf](https://github.com/ArtOfTheWeak/Embassy/blob/main/006%20russiaTwitter.js)
 List of Russian embassies with Twitter accounts and their numerical twitter IDs.
