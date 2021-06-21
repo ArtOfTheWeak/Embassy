@@ -6,7 +6,7 @@ All of the archival audio originates from, or is in reference to, the Cold War e
 
 
 
-002 morseCode.pdf
+[002 morseCode.pdf] (https://github.com/ArtOfTheWeak/Embassy/blob/main/002%20morseTweet.js)
 Preliminary code used to convert tweets into morse code.
 
 003 americanEmbassyRasPI.pdf
